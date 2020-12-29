@@ -3,7 +3,7 @@ Ef Core,Docker,Jwt,Serilog ve Sql Server kullanilmis bir mesajlasma api'si.Kulla
 
 Uygulama Docker Compose ile calistirilabilir.
 
-<h1>Endpoint Routmap</h1>
+<h1>Endpoint Routemap</h1>
 Uygulama ayaga kalktiginde sizi Swagger ekrani  karsilar.
 
 ![messageapp_screenshot](https://user-images.githubusercontent.com/57019480/103289147-89a56600-49f7-11eb-8666-f84e7b71fd1c.PNG)
